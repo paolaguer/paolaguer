@@ -3,7 +3,7 @@
 I'm a Data Analyst specializing in Excel, SQL, PowerBI, and Tableau. I previously worked as a Test Product Engineer in the semiconductor industry where I had the experience of:</br>
 - [x]	Leveraging data analytics tools such as MS Excel and PowerBI to evaluate test performance, identify bottlenecks, and recommend solutions</br>
 - [x]	Designed dashboards using PDF Exensio for engineers that features interactive plots, pareto, and tables for daily monitoring and yield analysis, enabling in-depth root cause analysis</br>
-- [x]	Presented data-driven insights on high-cost impact projects to senior leaders and department managers</br></br>
+- [x]	Presented data-driven insights on high-cost impact projects to senior leaders and department managers</br>
 
 This page is mainly a repository to showcase my skills and share projects that I have relatively previously worked on. </br>
 
